@@ -1,0 +1,10 @@
+img {
+    display: flex;
+    /* justify-content: left; */
+    margin: -0.5em;
+    width: 10em;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-top: 0em;
+}
+
